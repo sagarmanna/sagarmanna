@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Manna</h1>
-<h3 align="center">👨‍💻 Fullstack Developer👨‍💻 Fullstack Developer | C++ Enthusiast | DSA Practitioner</h3>
+<h3 align="center">Fullstack Developer | C++ Enthusiast | DSA Practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarmanna&label=Profile%20views&color=0e75b6&style=flat" alt="sagarmanna" /> </p>
 
