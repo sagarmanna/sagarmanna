@@ -12,11 +12,12 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 - 🌱 **Currently Learning**: **Node.js, React, Express.js**  
 - 📫 **How to Reach Me**: **[sagarmanna954@gmail.com](mailto:sagarmanna954@gmail.com)**  
-- ⚡ **Fun Fact**: I play the guitar 🎸 and love solving algorithmic puzzles!  
 
 ---
 
@@ -64,7 +65,7 @@
 
 ---
 
-<h3 align="center">🎸 Fun Motivation:</h3>
+<h3 align="center">🚀 Motivation:</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote">
 </p>
