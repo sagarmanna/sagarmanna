@@ -65,13 +65,7 @@
 
 ---
 
-<h3 align="center">🚀 Motivation:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote">
-</p>
-
----
-
 <p align="center">
   🚀 "Code, Learn, Build, Repeat!" 🌟
 </p>
+
