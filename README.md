@@ -3,70 +3,66 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarmanna&label=Profile%20views&color=0e75b6&style=flat" alt="sagarmanna" />
-  <img src="https://img.shields.io/github/followers/sagarmanna?style=social" alt="GitHub Followers" />
 </p>
 
+---
+
+<h2 align="center">🌟 About Me 🌟</h2>
+
+- 🌱 I’m currently learning **Node.js, React, Express.js**
+- 📫 How to reach me: **sagarmanna954@gmail.com**
+
+---
+
+<h2 align="center">🌐 Connect with Me 🌐</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C1FF&width=435&lines=Passionate+Fullstack+Developer;C%2B%2B+%26+DSA+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG">
+  <a href="https://linkedin.com/in/manna-s" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/sagarmanna954" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/manna20" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>
 </p>
 
 ---
 
-- 🌱 **Currently Learning**: **Node.js, React, Express.js**  
-- 📫 **How to Reach Me**: **[sagarmanna954@gmail.com](mailto:sagarmanna954@gmail.com)**  
-
----
-
-<h3 align="left">🔗 Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/manna-s" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
-  <a href="https://www.hackerrank.com/sagarmanna954" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="40"/></a>
-  <a href="https://www.leetcode.com/manna20" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="40"/></a>
-  <a href="https://github.com/sagarmanna" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub" width="40"/></a>
-</p>
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
+<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmanna&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarmanna&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmanna&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  🚀 "Code, Learn, Build, Repeat!" 🌟
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmanna&" alt="GitHub Streak" />
 </p>
