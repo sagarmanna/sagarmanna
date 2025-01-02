@@ -2,12 +2,18 @@
 <h3 align="center">👨‍💻 Fullstack Developer | C++ Enthusiast | DSA Practitioner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarmanna&label=Profile%20views&color=0e75b6&style=flat" alt="sagarmanna" />
-  <img src="https://img.shields.io/github/followers/sagarmanna?style=social" alt="GitHub Followers" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=sagarmanna&label=Profile%20views&color=ff69b4&style=flat-square">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=sagarmanna&label=Profile%20views&color=0e75b6&style=flat-square">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/sagarmanna?style=social&logoColor=white">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/sagarmanna?style=social&logoColor=black">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C1FF&width=435&lines=Passionate+Fullstack+Developer;C%2B%2B+%26+DSA+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C1FF&width=500&lines=Passionate+Fullstack+Developer;C%2B%2B+%26+DSA+Enthusiast;Always+Learning+%26+Building;Welcome+to+My+Profile!" alt="Typing SVG">
 </p>
 
 ---
