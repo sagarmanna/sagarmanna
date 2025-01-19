@@ -42,7 +42,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Sof
 
 ### 📂 GitHub Stats  
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarGitHubUsername&show_icons=true&theme=default)  
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&token=your-token)
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarGitHubUsername&layout=compact&theme=default)  
 
 ---
