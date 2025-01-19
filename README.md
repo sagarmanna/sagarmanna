@@ -56,10 +56,10 @@ Want to know more about my experience and achievements?
 
 ### 📫 Let's Connect!  
 
-- 💼 [LinkedIn](https://linkedin.com/in/)  
-- 💻 [GitHub](https://github.com/)  
-- 🎯 [LeetCode](https://leetcode.com/)  
-- 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manna-s/)  
+- 💻 [GitHub](https://github.com/sagarmanna)  
+- 🎯 [LeetCode](https://leetcode.com/u/manna20/)  
+- 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sagar02/)  
 📧 Email: [sagarmanna954@gmail.com](mailto:sagarmanna954@gmail.com)  
 
 ---
