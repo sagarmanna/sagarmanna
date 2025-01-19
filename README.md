@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Sof
 ### 📄 My Resume  
 
 Want to know more about my experience and achievements?  
-[**View My Resume**](https://drive.google.com/drive/u/0/my-drive)  
+[**View My Resume**](https://drive.google.com/file/d/1UkODkcw8Wl1gRq0VBDWjZbXKi4PcN3yW/view?usp=sharing)  
 
 ---
 
