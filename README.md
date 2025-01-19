@@ -11,8 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Sof
 - 🏢 Currently working as an **Associate Software Development Engineer (ASDE)**.  
 - 💻 **Fullstack Developer**: Proficient in **ReactJS, NodeJS, HTML, CSS, JavaScript**.  
 - 🌟 Strong in **C++** and **Data Structures & Algorithms (DSA)**.  
-- 🔍 Active problem solver on **[LeetCode](https://leetcode.com/)**, **[GeeksforGeeks](https://www.geeksforgeeks.org/)**, and **[HackerRank](https://www.hackerrank.com/)**.  
-- 🎓 **Diploma in Mechanical Engineering** from Salboni Institute of Technology with **8.6 CGPA**.  
+- 🔍 Active problem solver on **[LeetCode](https://leetcode.com/)**, **[GeeksforGeeks](https://www.geeksforgeeks.org/)**, and **[HackerRank](https://www.hackerrank.com/)**.    
 
 ---
 
@@ -43,7 +42,8 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Sof
 
 ### 📂 GitHub Stats  
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar&show_icons=true&hide_title=true)
+
 
 ---
 
