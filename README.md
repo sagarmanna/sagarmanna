@@ -1,6 +1,7 @@
+
 # Hi there! 👋 I'm Sagar  
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Software Engineer**, dedicated to crafting efficient, user-friendly applications and exploring cutting-edge technologies.  
+Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Software Engineer**, dedicated to crafting efficient, user-friendly applications and exploring cutting-edge technologies.
 
 ---
 
@@ -42,15 +43,14 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Sof
 
 ### 📂 GitHub Stats  
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&token=your-token)
- 
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar&show_icons=true&theme=default)
 
 ---
 
 ### 📄 My Resume  
 
 Want to know more about my experience and achievements?  
-[**View My Resume**](https://drive.google.com/file/d/your-resume-id/view?usp=sharing)  
+[**View My Resume**](https://drive.google.com/file/d/your-resume-id/view?usp=sharing)
 
 ---
 
