@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Sof
 ### 👨‍💻 About Me  
 
 - 🎓 **B.Tech in Computer Science and Engineering** (3rd Year) at Chandigarh Engineering College (IKGPTU).  
-- 🏢 Currently working as an **Associate Software Development Engineer (ASDE)**.  
+- 🏢 Currently working as an **Associate Software Development Engineer Intern **.  
 - 💻 **Fullstack Developer**: Proficient in **ReactJS, NodeJS, HTML, CSS, JavaScript**.  
 - 🌟 Strong in **C++** and **Data Structures & Algorithms (DSA)**.  
 - 🔍 Active problem solver on **[LeetCode](https://leetcode.com/)**, **[GeeksforGeeks](https://www.geeksforgeeks.org/)**, and **[HackerRank](https://www.hackerrank.com/)**.    
