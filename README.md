@@ -60,7 +60,7 @@ Want to know more about my experience and achievements?
 - 💻 [GitHub](https://github.com/)  
 - 🎯 [LeetCode](https://leetcode.com/)  
 - 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/)  
-📧 Email: [sagar@example.com](mailto:sagar@example.com)  
+📧 Email: [sagar@example.com](mailto:sagarmanna954@gmail.com)  
 
 ---
 
