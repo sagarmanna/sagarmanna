@@ -1,68 +1,69 @@
+# Hi there! 👋 I'm Sagar
 
-# Hi there! 👋 I'm Sagar  
-
-Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Software Engineer**, dedicated to crafting efficient, user-friendly applications and exploring cutting-edge technologies.
-
----
-
-### 👨‍💻 About Me  
-
-- 🎓 **B.Tech in Computer Science and Engineering** (3rd Year) at Chandigarh Engineering College (IKGPTU).  
-- 🏢 Currently working as an  Software Development Engineer Intern .  
-- 💻 **Fullstack Developer**: Proficient in **ReactJS, NodeJS, HTML, CSS, JavaScript**.  
-- 🌟 Strong in **C++** and **Data Structures & Algorithms (DSA)**.  
-- 🔍 Active problem solver on **[LeetCode](https://leetcode.com/)**, **[GeeksforGeeks](https://www.geeksforgeeks.org/)**, and **[HackerRank](https://www.hackerrank.com/)**.    
+Welcome to my GitHub! I'm a passionate **Fullstack Developer** and aspiring **Software Engineer**, focused on building scalable, performant, and user-friendly applications. I love solving real-world problems and collaborating on impactful tech projects.
 
 ---
 
-### 🛠️ Skills & Tools  
+### 👨‍💻 About Me
+
+- 🎓 **B.Tech in Computer Science and Engineering** (3rd Year) — Chandigarh Engineering College (IKGPTU)
+- 💼 **Software Development Engineer Intern** at ITJOBXS
+- 💻 Tech Stack: **ReactJS, NodeJS, JavaScript, HTML, CSS**
+- 💪 Strong foundation in **C++**, **Data Structures & Algorithms (DSA)**
+- 🧠 Problem-solving enthusiast on [LeetCode](https://leetcode.com/u/manna20/), [GFG](https://www.geeksforgeeks.org/user/sagar02/), [HackerRank](https://www.hackerrank.com/)
+
+---
+
+### 🛠️ Skills & Technologies
 
 - **Languages**: C++, JavaScript  
-- **Frontend**: ReactJS, HTML, CSS  
-- **Backend**: NodeJS  
-- **Tools**: Git, Logging & Monitoring Tools  
-- **Other Skills**: Debugging, API Integration, Authentication Systems  
+- **Frontend**: ReactJS, HTML5, CSS3  
+- **Backend**: Node.js, Express.js  
+- **Tools**: Git & GitHub, Postman, Logging/Monitoring  
+- **Others**: REST APIs, Authentication, Debugging, Agile Collaboration
 
 ---
 
-### 🌟 Experiences  
+### 🌟 Experience
 
-- 🛠️ **SDE Intern at ITJOBXS**  
-  - Debugged and resolved issues in the **Product Uploading Section**.  
-  - Worked on **User Verification/Authentication** and APIs Integration.  
-  - Designed new components and collaborated with stakeholders.  
+#### 💼 SDE Intern @ ITJOBXS
+- Enhanced **Product Uploading System** with debugging & validation
+- Implemented **User Authentication** and backend API integrations
+- Designed frontend components and collaborated with cross-functional teams
 
-- 💻 **Web Development Intern at Desi QnA**  
-  - Contributed to building and enhancing the platform.  
+#### 💻 Web Dev Intern @ Desi QnA
+- Built responsive web interfaces, improved site usability
 
-- 📚 **Participant at CeNSE Summer School**  
-  - Hands-on experience in **Semiconductor Technology and Microfabrication**.  
+#### 🧪 CeNSE Summer School @ IISc Bangalore
+- Hands-on lab experience in **Semiconductor Tech & Microfabrication**
 
 ---
 
-### 📂 GitHub Stats  
+### 📈 GitHub Stats
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=radical)
-
-
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=radical)
 
 ---
 
 ### 📄 My Resume  
-
-Want to know more about my experience and achievements?  
-[**View My Resume**](https://drive.google.com/file/d/1UkODkcw8Wl1gRq0VBDWjZbXKi4PcN3yW/view?usp=sharing)
-
----
-
-### 📫 Let's Connect!  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/manna-s/)  
-- 💻 [GitHub](https://github.com/sagarmanna)  
-- 🎯 [LeetCode](https://leetcode.com/u/manna20/)  
-- 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sagar02/)  
-📧 Email: [sagarmanna954@gmail.com](mailto:sagarmanna954@gmail.com)  
+Want to explore my journey in more detail?  
+👉 [**Click to View My Resume**](https://drive.google.com/file/d/1UkODkcw8Wl1gRq0VBDWjZbXKi4PcN3yW/view?usp=sharing)
 
 ---
 
-💻 **Simplity 😊 | Building with Passion | Innovating for Impact**
+### 🤝 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manna-s/)
+- 💻 [GitHub](https://github.com/sagarmanna)
+- 🎯 [LeetCode](https://leetcode.com/u/manna20/)
+- 📚 [GFG](https://www.geeksforgeeks.org/user/sagar02/)
+- 📧 Email: [sagarmanna954@gmail.com](mailto:sagarmanna954@gmail.com)
+
+---
+
+### ✨ Motto
+
+> **Simplity 😊 | Building with Passion | Innovating for Impact**
+
+---
+
