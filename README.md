@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **Fullstack Developer** and aspiring **So
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science and Engineering** (3rd Year) — Chandigarh Engineering College (IKGPTU)
+- 🎓 **B.Tech in Computer Science and Engineering** (4th Year) — Chandigarh Engineering College (IKGPTU)
 - 💼 **Software Development Engineer Intern** at ITJOBXS
 - 💻 Tech Stack: **ReactJS, NodeJS, JavaScript, HTML, CSS**
 - 💪 Strong foundation in **C++**, **Data Structures & Algorithms (DSA)**
