@@ -115,7 +115,7 @@
 ---
 
 ## 📄 Resume
-📎 [**View Resume**](https://drive.google.com/file/d/1UkODkcw8Wl1gRq0VBDWjZbXKi4PcN3yW/view)
+📎 [**View Resume**](https://drive.google.com/file/d/1M4Fkx-5JC7RMFN0onVYIdCt76MiGgGQT/view?usp=sharing)
 
 ---
 
