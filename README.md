@@ -1,22 +1,20 @@
-<h1 align="center">
-  Hi there 👋
-</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=I'm+Sagar+Manna;Fullstack+Developer;Software+Engineer+Intern"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00ADB5&center=true&vCenter=true&width=650&lines=I'm+Sagar+Manna;Fullstack+Developer;Software+Engineer+Intern"
     alt="Animated Name"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00ADB5&center=true&vCenter=true&width=700&lines=React+%7C+Node+%7C+FastAPI;Building+Scalable+Web+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00ADB5&center=true&vCenter=true&width=720&lines=React+%7C+Node+%7C+FastAPI;Building+Scalable+Web+Applications"
     alt="Typing Animation"
   />
 </p>
 
----
+<hr/>
 
 ## 👨‍💻 About Me
 
@@ -26,7 +24,7 @@
 🧠 Strong in **C++ & Data Structures (DSA)**  
 🚀 Passionate about building **scalable, secure, high-performance applications**
 
----
+<hr/>
 
 ## 🛠️ Tech Stack
 
@@ -34,34 +32,31 @@
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,python,react,html,css,bootstrap,tailwind,vite,nodejs,express,fastapi,php,dotnet,mongodb,mysql,postgres,git,github,postman,vercel,netlify" />
 </p>
 
----
+<hr/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=sagarmanna&theme=radical&hide_border=true" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sagarmanna&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmanna&layout=compact&theme=tokyonight&hide_border=true)
+
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmanna&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
+<hr/>
 
 ## 🐍 Contribution Graph Animation
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sagarmanna/sagarmanna/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake Animation"
-  />
+
+![Contribution Snake](https://raw.githubusercontent.com/sagarmanna/sagarmanna/main/github-contribution-grid-snake.svg)
+
 </p>
 
----
+<hr/>
 
 ## 🧠 Coding Profiles
 
@@ -77,12 +72,12 @@
   </a>
 </p>
 
----
+<hr/>
 
 ## 📄 Resume
 📎 **[View Resume](https://drive.google.com/file/d/1M4Fkx-5JC7RMFN0onVYIdCt76MiGgGQT/view)**
 
----
+<hr/>
 
 ## 🤝 Connect With Me
 
@@ -98,7 +93,7 @@
   </a>
 </p>
 
----
+<hr/>
 
 ## ✨ Motto
 
