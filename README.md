@@ -50,15 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmanna&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<hr/>
 
-## 🐍 Contribution Graph Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagarmanna/sagarmanna/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-<hr/>
 
 ## 🧠 Coding Profiles
 
