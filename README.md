@@ -46,7 +46,7 @@ Git, Postman, Vercel, Uvicorn
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" />
 </p>
 
 ---
