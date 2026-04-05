@@ -4,6 +4,10 @@
 AI-Focused Frontend Engineer | React • FastAPI • Computer Vision
 </p>
 
+<p align="center">
+🌐 Portfolio: <a href="https://my-portfolio-ten-rosy-96.vercel.app/">View My Portfolio</a>
+</p>
+
 ---
 
 ## 👨‍💻 Professional Summary
