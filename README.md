@@ -1,7 +1,7 @@
 <h1 align="center">Sagar Manna</h1>
 
 <p align="center">
-AI-Focused Frontend Engineer | React • FastAPI • Computer Vision
+AI - Engineer | React • FastAPI • Computer Vision | AI 
 </p>
 
 <p align="center">
