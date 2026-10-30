@@ -21,35 +21,63 @@
 
 ---
 
+
 ## About Me
 
-I am an **Artificial Intelligence Engineer** at **Vedas Tech**, with a background in full-stack software development, backend engineering, and computer vision.
+<table>
+<tr>
+<td valign="top" width="65%">
 
-My focus is on designing intelligent, scalable applications that integrate AI capabilities with modern software architecture.
+### Engineering Intelligence Into Real-World Applications
 
-I transitioned from **AI Product Engineer Intern** to **Artificial Intelligence Engineer (Full-time)** in October 2026.
+I'm **Sagar Manna**, an **Artificial Intelligence Engineer at Vedas Tech**, specializing in AI-powered software engineering, full-stack development, and computer vision.
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Sagar Manna"
-        self.role = "Artificial Intelligence Engineer"
-        self.company = "Vedas Tech"
-        self.location = "Gujarat, India"
+I work at the intersection of **Artificial Intelligence, Backend Engineering, and Modern Web Technologies**, focusing on designing intelligent, scalable, and maintainable applications.
 
-        self.expertise = [
-            "Artificial Intelligence",
-            "Full Stack Development",
-            "Computer Vision",
-            "Backend Engineering",
-            "REST API Architecture"
-        ]
+My professional journey includes progressing from **AI Product Engineer Intern** to **Artificial Intelligence Engineer (Full-time)** in October 2026.
 
-    def focus(self):
-        return "Building intelligent and scalable systems"
-```
+**What drives my work:**
 
----
+- Designing intelligent and scalable software architectures
+- Integrating AI models with production-oriented applications
+- Building secure REST APIs and backend services
+- Developing responsive, performance-focused web interfaces
+- Exploring computer vision and intelligent automation
+
+</td>
+<td valign="top" width="35%">
+
+### Quick Overview
+
+**Current Role**  
+Artificial Intelligence Engineer
+
+**Organization**  
+Vedas Tech
+
+**Location**  
+Gujarat, India
+
+**Education**  
+B.Tech — Computer Science & Engineering
+
+**Core Focus**  
+AI Engineering & Full Stack Development
+
+</td>
+</tr>
+</table>
+
+### Areas of Expertise
+
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0F172A?style=flat-square&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Full_Stack_Engineering-1E40AF?style=flat-square&logoColor=white" alt="Full Stack Engineering"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0E7490?style=flat-square&logoColor=white" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Backend_Architecture-334155?style=flat-square&logoColor=white" alt="Backend Architecture"/>
+<img src="https://img.shields.io/badge/REST_API_Development-155E75?style=flat-square&logoColor=white" alt="REST API Development"/>
+</p>
+
 
 ## Professional Experience
 
