@@ -1,201 +1,205 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Sagar Manna
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:0891B2&height=220&section=header&text=SAGAR%20MANNA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Sagar Manna"/>
 
-### Artificial Intelligence Engineer | Full Stack Developer | AI & Computer Vision
+<a href="https://my-portfolio-ten-rosy-96.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/manna-s/">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="mailto:sagarmanna954@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
-**Artificial Intelligence Engineer @ Vedas Tech**
+<br/><br/>
 
-Building Intelligent Systems • Scalable Applications • AI-Powered Solutions
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-ten-rosy-96.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manna-s/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarmanna954@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 Professional Summary
-
-I'm an **Artificial Intelligence Engineer and Full Stack Developer** specializing in intelligent web applications, computer vision, backend systems, and AI integration.
-
-Currently working at **Vedas Tech (Redefining Global Language Services)**, where I progressed from **AI Product Engineer Intern** to **Artificial Intelligence Engineer (Full-time)** in October 2026.
-
-My engineering focus includes:
-
-- AI-powered application development
-- Full-stack web engineering
-- Computer vision and real-time processing
-- RESTful API design and integration
-- Backend architecture and performance optimization
-- Secure and scalable application development
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Artificial Intelligence Engineer
-**Vedas Tech (Redefining Global Language Services)**
-
-📍 Gujarat, India | On-site  
-📅 October 2026 – Present  
-💼 Full-time
-
-- Engineering AI-enabled web applications and backend services.
-- Working with Python, FastAPI, React.js, and JavaScript.
-- Integrating intelligent processing workflows with web applications.
-- Focusing on performance, security, and modular architecture.
-
-### 💻 AI Product Engineer Intern
-**Vedas Tech (Redefining Global Language Services)**
-
-📍 Gujarat, India | On-site  
-📅 June 2026 – October 2026
-
-- Contributed to frontend and backend development.
-- Implemented reCAPTCHA security across employer and candidate portals.
-- Worked on authentication, access management, and REST API integration.
-- Improved application functionality, security, and maintainability.
-
-### 🧑‍💻 .NET Full Stack Developer Trainee
-**Wipro – TalentNext**
-
-📅 August 2025 – October 2025
-
-- Trained in C#, ASP.NET Core, MVC, and Entity Framework.
-- Worked with SQL Server and RESTful APIs.
-- Developed frontend functionality using HTML, CSS, JavaScript, and Bootstrap.
-
----
-
-## 🛠️ Technical Stack
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🧠 AI / Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Additional Focus:** Dlib, Facial Landmark Detection, EAR-based Logic, NLP, AI Model Integration
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white)
-
-### 🧰 Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Engineering Projects
-
-### 🧠 TransVeda — AI Translation & CAT Platform
-
-AI-powered translation and computer-assisted translation platform featuring translation memory, document processing, terminology suggestions, task assignment, and model training workflows.
-
-**Tech Stack:** Python, FastAPI, PyTorch, JavaScript, NLP
-
-### 🎙️ CloneVeda — AI Voice Technology Platform
-
-Multilingual voice technology project focused on speech processing, voice cloning, and text-to-speech capabilities.
-
-**Tech Stack:** Python, Deep Learning, Speech Processing, REST APIs
-
-### 🎬 CineVeda — Casting & Film Production Platform
-
-Full-stack casting platform connecting filmmakers, production companies, and artists through casting calls, audition management, talent discovery, and communication workflows.
-
-**Tech Stack:** React.js, Node.js, Express.js, PostgreSQL
-
-### 🔬 ResearchMind — Multi-Agent Research System
-
-Multi-agent AI research assistant supporting web research, content extraction, automated report generation, and critic-based review.
-
-**Tech Stack:** Python, Streamlit, LangChain, LangGraph, OpenAI API, Tavily
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-ResearchMind-00C853?style=for-the-badge)](https://multiagentsystem9.streamlit.app/)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=sagarmanna&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmanna&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer;Full+Stack+Software+Developer;AI+%7C+Computer+Vision+%7C+Backend;Building+Intelligent+Software+Systems" alt="Typing animation"/>
 
 </div>
 
 ---
 
-## 🎯 Current Engineering Interests
+## About Me
 
-- Artificial Intelligence and Machine Learning
-- AI-Powered Software Engineering
-- Natural Language Processing
-- Real-Time Computer Vision
-- Model Integration and Deployment
-- Backend Systems and API Architecture
-- Scalable Full Stack Applications
+I am an **Artificial Intelligence Engineer** at **Vedas Tech**, with a background in full-stack software development, backend engineering, and computer vision.
+
+My focus is on designing intelligent, scalable applications that integrate AI capabilities with modern software architecture.
+
+I transitioned from **AI Product Engineer Intern** to **Artificial Intelligence Engineer (Full-time)** in October 2026.
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Sagar Manna"
+        self.role = "Artificial Intelligence Engineer"
+        self.company = "Vedas Tech"
+        self.location = "Gujarat, India"
+
+        self.expertise = [
+            "Artificial Intelligence",
+            "Full Stack Development",
+            "Computer Vision",
+            "Backend Engineering",
+            "REST API Architecture"
+        ]
+
+    def focus(self):
+        return "Building intelligent and scalable systems"
+```
 
 ---
 
-## 📫 Connect With Me
+## Professional Experience
+
+<table>
+  <tr>
+    <td width="160"><b>Oct 2026 – Present</b></td>
+    <td>
+      <b>Artificial Intelligence Engineer</b><br/>
+      <b>Vedas Tech</b> · Full-time<br/>
+      <sub>Gujarat, India · On-site</sub><br/><br/>
+      AI-enabled applications, backend services, API integration,
+      and scalable software engineering.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Jun 2026 – Oct 2026</b></td>
+    <td>
+      <b>AI Product Engineer Intern</b><br/>
+      <b>Vedas Tech</b> · Internship<br/>
+      <sub>Gujarat, India · On-site</sub><br/><br/>
+      Full-stack development, authentication, portal security,
+      reCAPTCHA integration, and backend functionality.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Aug 2025 – Oct 2025</b></td>
+    <td>
+      <b>.NET Full Stack Developer Trainee</b><br/>
+      <b>Wipro TalentNext</b><br/><br/>
+      ASP.NET Core, C#, MVC, Entity Framework, REST APIs,
+      and SQL Server.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical Expertise
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar_Manna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manna-s/)
+### Programming Languages
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-ten-rosy-96.vercel.app/)
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs&theme=dark" alt="Programming languages"/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagarmanna954@gmail.com)
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap&theme=dark" alt="Frontend skills"/>
+
+### Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,dotnet&theme=dark" alt="Backend skills"/>
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI skills"/>
+
+<br/>
+
+`Computer Vision` · `NLP` · `Dlib` · `Facial Landmark Detection` · `AI Model Integration`
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql&theme=dark" alt="Databases"/>
+
+<br/>
+
+`SQL Server` · `Relational Database Design`
+
+### Development & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,vscode&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
+## Engineering Focus
+
+<table>
+  <tr>
+    <th align="center">Artificial Intelligence</th>
+    <th align="center">Software Engineering</th>
+  </tr>
+  <tr>
+    <td>Computer Vision</td>
+    <td>Full Stack Architecture</td>
+  </tr>
+  <tr>
+    <td>Natural Language Processing</td>
+    <td>REST API Development</td>
+  </tr>
+  <tr>
+    <td>AI Model Integration</td>
+    <td>Backend Performance</td>
+  </tr>
+  <tr>
+    <td>Intelligent Automation</td>
+    <td>Application Security</td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
+
 <div align="center">
 
-### ⚡ Engineering Intelligent Systems — Beyond Traditional Software Development
+<img src="https://github-readme-stats.vercel.app/api?username=sagarmanna&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-**Build • Learn • Innovate • Repeat**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarmanna&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sagarmanna&theme=github-dark-blue&hide_border=true" height="165" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarmanna&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manna-s/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://my-portfolio-ten-rosy-96.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:sagarmanna954@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sagarmanna&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+**ENGINEERING INTELLIGENT SYSTEMS**
+
+*Build. Learn. Innovate. Repeat.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:0891B2&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
